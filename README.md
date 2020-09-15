@@ -6,4 +6,6 @@ Setup:
 2. Run notify.py and allow permissions to get the refresh token.
 3. Paste refresh token in notify.py.
 4. Set Sender address in server.py
-5. All set. Run the Application.
+5. All set. Run the server.py file.
+
+
